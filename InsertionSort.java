@@ -5,7 +5,7 @@ public class InsertionSort {
         int [] arr = {0, -2, 12, 324, 1 ,-32};
         insertionSort(arr);
         System.out.println(Arrays.toString(arr));
-    }
+    } 
     static void insertionSort(int[] arr){
         for (int i = 0; i < arr.length-1; i++) {
             for (int j = i+1; j >0 ; j--) {
