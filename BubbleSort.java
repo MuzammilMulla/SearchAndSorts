@@ -1,5 +1,3 @@
-# Search And Sorts
-Simple programs for search and sorts in java.
 import java.util.Arrays;
 
 public class BubbleSort {
